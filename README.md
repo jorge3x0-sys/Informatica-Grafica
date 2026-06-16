@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fabrica API (Node.js + Express)
 
 API propia del Digital Twin de la fábrica inteligente. Sustituye a `API.py` (Flask)
@@ -57,3 +58,6 @@ El estado se guarda en una variable JS en memoria (`estadoFabrica`). Esto es
 suficiente para el proyecto, pero significa que si Render reinicia el servicio
 (por inactividad en el plan gratuito) el estado vuelve a los valores por
 defecto definidos en `server.js`.
+=======
+# Informatica-Grafica
+>>>>>>> 5374d8e71be414bcfc58eeaf7bf4ad51cf403617
