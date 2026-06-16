@@ -1,0 +1,16 @@
+{
+  "name": "fabrica-api",
+  "version": "1.0.0",
+  "description": "API propia del Digital Twin de la fábrica inteligente (Proyecto 2 - Informática Gráfica)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.22.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
